@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container1{
+    border-style: solid;  padding: 25px; background-color:antiquewhite; width:50%;border:20px; height:400px;margin-top:auto;margin-bottom:auto;
+} 
+.container2{
+
+}
+    
+.container3{
+    -webkit-border-radius:20px;
+    -moz-border-radius:10px;
+    border-radius: 50px;
+    padding:10px 20px 10px 20px;
+
+}
+.container3:hover{
+background: "green";
+}
